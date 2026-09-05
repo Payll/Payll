@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://yann-paillard.fr"><img src="https://img.shields.io/badge/yann--paillard.fr-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/yann-paillard"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://dev.to/payll"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff" alt="dev.to" /></a>
   <a href="https://nablify.com"><img src="https://img.shields.io/badge/Nablify-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM2ZiOTUwIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiBmaWxsPSIjM2ZiOTUwIi8+PC9zdmc+&logoColor=3fb950" alt="Nablify" /></a>
 </p>
 
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Payll/Payll/main/assets/terminal.svg" width="900" alt="neofetch terminal" />
+  <img src="assets/terminal.svg" width="900" alt="neofetch terminal" />
 </p>
 
 <br/>
