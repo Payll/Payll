@@ -61,7 +61,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Payll/Intelligo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=Intelligo&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Intelligo" /></a>
-  <a href="https://github.com/Payll/AL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=AL&theme=github_dark&bg_color=0d1117&hide_border=true" alt="AL" /></a>
+  <a href="https://github.com/Payll/EXO_SWERC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=EXO_SWERC&theme=github_dark&bg_color=0d1117&hide_border=true" alt="EXO_SWERC" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Payll/TPProjet-DMB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=TPProjet-DMB&theme=github_dark&bg_color=0d1117&hide_border=true" alt="TPProjet-DMB" /></a>
