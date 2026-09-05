@@ -53,25 +53,6 @@
   <img src="https://img.shields.io/badge/Modbus-0d1117?style=flat-square&logoColor=bc8cff" alt="Modbus" />
 </p>
 
-<h3 align="center"><code>ls ~/projects</code></h3>
-
-<p align="center">
-  <a href="https://github.com/Payll/mywebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=mywebsite&theme=github_dark&bg_color=0d1117&hide_border=true" alt="mywebsite" /></a>
-  <a href="https://github.com/Payll/Test-spring-boot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=Test-spring-boot&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Test-spring-boot" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Payll/Intelligo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=Intelligo&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Intelligo" /></a>
-  <a href="https://github.com/Payll/EXO_SWERC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=EXO_SWERC&theme=github_dark&bg_color=0d1117&hide_border=true" alt="EXO_SWERC" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Payll/TPProjet-DMB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=TPProjet-DMB&theme=github_dark&bg_color=0d1117&hide_border=true" alt="TPProjet-DMB" /></a>
-  <a href="https://github.com/Payll/JAVA_STRUCT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=payll&repo=JAVA_STRUCT&theme=github_dark&bg_color=0d1117&hide_border=true" alt="JAVA_STRUCT" /></a>
-</p>
-
-<p align="center">
-  <sub>personal → <a href="https://github.com/Payll?tab=repositories&q=topic%3Apersonal">topic:personal</a> · school → <a href="https://github.com/Payll?tab=repositories&q=topic%3Aschool-esir">topic:school-esir</a> · contests → <a href="https://github.com/Payll?tab=repositories&q=topic%3Acompetitive-programming">topic:competitive-programming</a> · internship → <a href="https://github.com/Payll?tab=repositories&q=topic%3Ainternship">topic:internship</a> · early → <a href="https://github.com/Payll?tab=repositories&q=topic%3Aearly-projects">topic:early-projects</a></sub>
-</p>
-
 <h3 align="center"><code>git log --stat</code></h3>
 
 <p align="center">
